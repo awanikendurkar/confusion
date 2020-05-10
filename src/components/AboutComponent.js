@@ -27,7 +27,7 @@ function About(props) {
         );
     });
 
-    return(
+    return (
         <div className="container">
             <div className="row">
                 <Breadcrumb>
